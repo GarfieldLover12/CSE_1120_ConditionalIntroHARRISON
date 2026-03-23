@@ -37,7 +37,7 @@ int main(void) {
     }
 
     printf("\nthe difference in age is %d\n", Dif);
-//this part has hard coded numbers as benchmarks for age group seperators
+//this part has hard coded numbers as benchmarks for age group separators
     if (Dif<5) {
         printf("Close in age\n");
     }
